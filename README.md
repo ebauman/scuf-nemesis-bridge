@@ -57,3 +57,11 @@ interfaces:
 - `scuf-xinput.swift` reads and decodes raw reports from the XInput interface.
 
 Run either with `swift tools/<name>.swift`.
+
+## Notes
+
+I am not affiliated with SCUF or Corsair. Those products, and references to them in this code, remain property of their respective owners. 
+
+This has been created with assistance from Claude.
+
+I claim no ownership of any 3rd party trademarks in this repository. My only goal is to get this good controller (Scuf Nemesis) working on my Mac. 
